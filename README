@@ -1,0 +1,4 @@
+## Login to the cloudFlare from terminal
+- npx wrangler login
+## Create the cloudFlare folder for creating the project 
+- npm create cloudflare -- cloudflare-testing
